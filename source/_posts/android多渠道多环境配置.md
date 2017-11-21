@@ -2,6 +2,7 @@
 title: android多渠道多环境配置
 date: 2017-11-17 18:00:42
 tags: Android
+categories: Android
 thumbnail: http://p2.so.qhimgs1.com/t019f9129d3d99e30d2.jpg
 ---
 
