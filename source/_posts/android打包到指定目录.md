@@ -3,7 +3,6 @@ title: android打包到指定目录
 date: 2017-11-17 17:18:27
 tags: Android
 categories: Android
-thumbnail: http://p2.so.qhimgs1.com/t019f9129d3d99e30d2.jpg
 ---
 将打出来的包用dradle脚本放到指定的目录下并显示渠道名 如 app-dahai-debug-1.0.apk
 ```
