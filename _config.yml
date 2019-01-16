@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大海正在努力中
-subtitle: 人生是一个永不停息的工厂，那里没有懒人的位置。工作吧！创造吧！
-description: 大海的博客
-author: 大海
+title: Hexo
+subtitle:
+description:
+keywords:
+author: John Doe
 language: zh-CN
-timezone: Asia/Shanghai
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://BigSea001.github.io
+url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,11 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Vateral
+theme: iLiKE
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/BigSea001/BigSea001.github.io.git
-  branch: master
+  type:
